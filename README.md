@@ -7,9 +7,12 @@
 [![Code Coverage][ico-code-quality]][link-code-quality]
 [![Total Downloads][ico-downloads]][link-downloads]
 
+> This project has been renamed, see [`owenvoke/yts`](https://github.com/owenvoke/yts).
+
 A full wrapper for the YTS API.
 
 ## About YTS
+
 YIFY Torrents or YTS is a peer-to-peer release group known for distributing large numbers of movies as free downloads through BitTorrent. YIFY releases were characterised through their HD video quality in a small file size, which attracted many downloaders.
 
 ## Install
